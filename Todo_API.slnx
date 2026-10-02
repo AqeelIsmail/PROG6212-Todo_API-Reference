@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/.github/" />
+  <Folder Name="/.github/workflows/">
+    <File Path="dotnet.yml" />
+  </Folder>
+  <Project Path="Todo_API.Tests/Todo_API.Tests.csproj" Id="a2c0073e-b661-4e12-80ab-d98fc92d9541" />
+  <Project Path="Todo_API/Todo_API.csproj" />
+</Solution>
